@@ -1,6 +1,6 @@
 /log
 /tmp
 .DS_Store
-.log/development.log
 log/development.log
 tmp/pids/server.pid
+config/secrets.yml
